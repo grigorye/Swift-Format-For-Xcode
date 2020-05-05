@@ -27,7 +27,6 @@ Please read below if you're formatting your Swift code in Xcode with Ctrl-I and 
 
 # Known limitations
 
-* Renaming of the workflow is not supported
 * Level of indentation of the result depends on the app:
 	- To make it properly indented in Xcode you have to enable "Indent when typing" in Preferences > Text Editing > Indentation > Syntax-Aware Indenting (optionally enabling "Re-indent on paste" in the same group)
 	- With other apps indentation level of the resultl is typically reset to zero
